@@ -1,0 +1,153 @@
+.carousel .bannerImage{
+     height: 75vh;
+     width: 100%;
+}
+.carousel h5{
+    color: darkgray;font-size: 25px;
+    text-transform: uppercase;
+}
+.carousel p{
+    background-color:rgba(0, 89, 148, 0.418);
+    padding: 5px;
+}
+.border{
+    background:rgb(0, 89, 148);
+    height: 5px!important;
+width: 40px;
+margin: 10px 0px;
+}
+/* Marketing section */
+ 
+.marketingSection p{ 
+    max-width: 50%;
+    text-align: center;
+}
+.marketingSection i{ 
+    width: 100px;
+    border:2px solid rgb(1, 50, 122) ;
+    height:100px ;
+    color:rgb(48, 48, 48);
+    padding: 20px;
+    border-radius: 40px;
+    transition: 0.2s linear;
+    font-size: 42px;
+}
+.marketingSection i:hover{
+    border-radius: 50px;
+}
+.marketinSection p.read{
+    max-width: 50%;
+    text-align: center;
+}
+.excellenceSection img{
+    box-shadow: 15px 15px grey;
+}
+.memberSection{
+    padding: 100px;
+    background-color: grey;
+    color: rgb(255, 255, 255);
+
+}
+.memberSection h2{
+font-weight: bold;
+font-size: 50px;
+text-align: center;
+}
+.memberSection .border{
+    background:rgb(0, 75, 119);
+    height: 7px!important;
+width: 50px;
+margin: 10px 2px;
+}
+.memberSection p{
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+}
+.ourExcellence span{
+    color: rgb(5, 49, 145);
+    text-decoration: underline;
+    font-weight: 600;
+}
+.ourExcellence img{
+    box-shadow: -10px -10px rgba(128, 128, 128, 0.466);
+}
+.ourExcellence img:hover{
+    transform: scale(1.5);
+    transition: 0.7s linear;
+    border-radius: 50% ;
+}
+.newSection h2 span{
+    color: rgb(0, 74, 134)!important;
+}
+.newSection img {
+    height: 250px;
+}
+.newSection .card{
+    font-size: 14px;
+    text-align: right!important;
+}
+.newSection .row{
+    max-width: 90%!important;
+}
+.newSection img:hover{
+    opacity: .5;
+    cursor: pointer;
+    transition: .5s linear;
+    transform: scale(1.1);
+}
+.newSection .card{
+    transition: .5s linear;
+}
+.newSection .card:hover{
+box-shadow: 0 0 10px 10px rgb(0, 85, 134);
+cursor: s-resize;
+transition: .7s linear;
+margin-bottom: 5px;
+}
+footer{
+    color: white;
+}
+footer h5{
+    font-weight: 800;
+    text-transform: uppercase;
+}
+footer p span{
+    font-weight: 300;
+}
+
+
+footer ul.social li{
+    display:inline-block!important;
+    margin-right: 10px;
+    width: 50px;
+    height: 50px;
+    font-size: 28px;
+    border: 4px solid rgb(77, 77, 77);
+    border-radius: 40%;
+    margin-left: 25px;
+}
+footer ul li a i{
+    position: relative;
+    margin: 10px 10px;
+}
+.facebook{
+    color: rgb(0, 47, 177);
+}
+.twitter{
+    color: rgb(29, 127, 255);
+}
+.youtube{
+    color: red;
+}
+
+footer ul li:hover{
+    border-radius: 50px;
+    margin-right: 10px;
+}
+footer ul.quick-links li{
+    list-style-type: none;
+    color: cornsilk;
+    text-decoration: none;
+}
+
