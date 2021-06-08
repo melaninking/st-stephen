@@ -150,4 +150,12 @@ footer ul.quick-links li{
     color: cornsilk;
     text-decoration: none;
 }
-
+.bannerSection{
+    background-image: url(../images/2.jpg);
+}
+.shortImage img{
+box-shadow: 10px 10px rgb(0, 58, 105) ;
+}
+.otherAccomplishment img{
+    box-shadow:-10px -10px rgb(0,58,105);
+}
