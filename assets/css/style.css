@@ -183,3 +183,20 @@ box-shadow: 10px 10px rgb(0, 58, 105) ;
 .our-story img{
     box-shadow: 10px 10px rgb(0, 58, 105) ;
 }
+.bannerSectionStaff{
+    background-image: url(../images/download\ \(1\).jpg);
+    background-size: cover;
+    min-height: 300px;
+    padding: 80px;
+}
+.staffSection img{
+border-radius: 60%;
+transition: .7s linear;
+}
+.staffSection img:hover{
+    box-shadow: 0 0 10px rgb(0, 58, 105);
+}
+
+
+
+
